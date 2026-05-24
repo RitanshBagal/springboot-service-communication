@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/eureka-server/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/product-service/product-service/pom.xml" />
+        <option value="$PROJECT_DIR$/orderservice-feign/orderservice-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/orderservice-restclient/orderservice-restclient/pom.xml" />
+        <option value="$PROJECT_DIR$/orderservice-resttemplate/orderservice-resttemplate/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="loom-ea-25" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
